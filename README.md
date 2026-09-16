@@ -7,8 +7,12 @@
     <a href="#-getting-started"><strong>Quick Start »</strong></a>
   </p>
 
-![CI Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+  <p align="center">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&amp;logo=numpy&amp;logoColor=white">
+    <img alt="CNN" src="https://img.shields.io/badge/CNN-7C3AED?style=flat&amp;logoColor=white">
+  </p>
 
 </div>
 
